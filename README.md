@@ -28,7 +28,6 @@ Aquí encontrarás algunos de mis proyectos personales con Android:
 - ☕ [**Coffee Tracker**](https://github.com/juagosin/CoffeeTracker) [![Google Store](https://img.shields.io/badge/Google%20PlayStore-34A853?&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.calleserpis.coffeetracker) – Registra tus cafés diarios y analiza tus hábitos de consumo.  
 - 📚 [**Reading App**](https://github.com/juagosin/Reading_App) – Visualiza datos mediante gráficos interactivos y modernos.  
 
-*(Puedes explorar más proyectos en mis repositorios 👇)*
 
 ---
 
