@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**juagosin/juagosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 👋 ¡Hola! Soy **Juan Gómez**
 
 Desarrollador Backend y apasionado de **Android** por crear aplicaciones útiles, intuitivas y con un diseño moderno.  
@@ -26,6 +13,7 @@ Me encanta trabajar con **Kotlin**, **Jetpack Compose** y **Material Design 3**,
 Aquí encontrarás algunos de mis proyectos personales con Android:
 
 - ☕ [**Coffee Tracker**](https://github.com/juagosin/CoffeeTracker) [![Google Store](https://img.shields.io/badge/Google%20PlayStore-34A853?&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.calleserpis.coffeetracker) – Registra tus cafés diarios y analiza tus hábitos de consumo.  
+- ⏱️ [**Horas Extra**](https://github.com/juagosin/OverTimeTracker) [![Google Store](https://img.shields.io/badge/Google%20PlayStore-34A853?&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.calleserpis.overtime) – Registra, gestiona y analiza tus horas extras de trabajo.
 - 📚 [**Reading App**](https://github.com/juagosin/Reading_App) – Visualiza datos mediante gráficos interactivos y modernos.  
 
 
